@@ -1,0 +1,143 @@
+.puton_img{
+    height: 40px;
+    width: 40px;
+}
+.Display-card{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.card{
+    display: flex;
+    align-items: center;
+}
+.cont-text-1{
+    line-height: 8px;
+    margin-left: 8px;
+}
+.cont-text-1 p:nth-child(1){
+    font-weight: 800;
+}
+.cont-text-1 p:nth-child(2){
+    font-size: 10px;
+    font-weight: 600;
+    color: gray;
+}
+.Container1-div{
+    background-color: white;
+    width: 35%;
+    padding: 10px 20px;
+    box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.2);
+    
+}
+.container2-div{
+    background-color: white;
+    width: 63%;
+    margin-left: 2%;
+    padding: 10px 20px;
+    box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.2);
+}
+.main-BodyContainer-div{
+    display: flex;
+    background-color: #fbfbfd;
+
+}
+.cont3{
+    background-color: #f3f6f9;
+    padding: 0px 15px;
+    border-radius: 10px;
+}
+.cont3 p:nth-child(1){
+    font-size: 10px;
+    font-weight: 600;
+    color: gray;
+}
+.cont2_header_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.report_btn{
+    border: none;
+    outline: none;
+    color: white;
+    background-color: #8950fc;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.con1st-row{
+    background-color: #ebedf3;
+    height: 20px;
+    width: 20px;
+    border-radius: 5px;
+}
+.down-div{
+    height: 10px;
+    width: 20px;
+}
+.table-div{
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+th{
+    padding: 0px 25px;
+}
+th>p{
+    font-size: 11px;
+}
+.table-div>p{
+    font-size: 11px;
+}
+td{
+    padding: 0px 30px;
+
+}
+.table_row2{
+    line-height: 5px;
+    width: 66px;
+   
+}
+.table_row3{
+    line-height: 5px;
+    width: 66px;
+    margin-left: 25px;
+}
+.table_row3>p{
+    font-size: 10px;
+}
+.table_row2>p{
+    font-size: 10px;
+}
+td:nth-child(4){
+   margin-left: 25px;
+  
+}
+.cont-row4{
+    font-size: 12px;
+    font-weight: 600;
+}
+.mono{
+    font-size: 12px;
+    font-weight: 600;
+}
+.mono2{
+    font-size: 12px;
+    font-weight: 600;
+    color: #f6728a;
+}
+.mono3{
+    font-size: 12px;
+    font-weight: 600;
+}
+.mono_img{
+    height: 20px;
+    width: 20;
+}
+.cont-row4{
+    /* background: red; */
+    width: 85px;
+}
+th:nth-child(1){
+    padding-left: 30px;
+}
